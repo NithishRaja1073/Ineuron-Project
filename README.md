@@ -1,6 +1,6 @@
 # Ineuron-Project by Nithish Raja
 
-project 1
+Project
 
 Problem Statement ❓
 
